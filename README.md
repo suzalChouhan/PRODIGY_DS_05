@@ -42,7 +42,7 @@ This project presents an in-depth analysis of traffic accident data to uncover p
 ---
 
 🙌 Contributing
-Feel free to fork this repo, open issues, or suggest improvements via pull requests.
+Feel free to fork this repo, open issues, or suggest improvements via pull requests.<br>
 This is an Intersnhip Task assigned by @Prodigy Infotech
 
 📄 License
